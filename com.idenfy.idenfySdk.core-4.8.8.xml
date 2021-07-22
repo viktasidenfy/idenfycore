@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>idenfy</groupId>
   <artifactId>com.idenfy.idenfysdk.core</artifactId>
-  <version>$BITRISE_GIT_TAG</version>
+  <version>5.1.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
